@@ -106,6 +106,6 @@ MIT
 
 ## AI-Generated Notice / AI 生成声明
 
-**EN:** This project was developed with the assistance of Artificial Intelligence (AI). While every effort has been made to ensure code quality and correctness, AI-generated content may contain errors or suboptimal implementations. If you encounter any issues, bugs, or have suggestions for improvement, please don't hesitate to [open an issue](../../issues) or submit a pull request. Your feedback is highly valuable and greatly contributes to the ongoing improvement of this project.
+**EN:** This project was developed with the assistance of Artificial Intelligence (AI). While every effort has been made to ensure code quality and correctness, AI-generated content may contain errors or suboptimal implementations. If you encounter any issues, bugs, or have suggestions for improvement, please don't hesitate to [open an issue](https://github.com/yangstafiltra/GPUpass/issues) or submit a pull request. Your feedback is highly valuable and greatly contributes to the ongoing improvement of this project.
 
-**中:** 本项目是在人工智能（AI）的协助下开发的。尽管我们已尽力确保代码质量和正确性，但 AI 生成的内容可能存在错误或非最优实现。如果您遇到任何问题、Bug 或有改进建议，请随时[提交 Issue](../../issues) 或提交 Pull Request。您的反馈非常宝贵，对本项目的持续改进至关重要。
+**中:** 本项目是在人工智能（AI）的协助下开发的。尽管我们已尽力确保代码质量和正确性，但 AI 生成的内容可能存在错误或非最优实现。如果您遇到任何问题、Bug 或有改进建议，请随时[提交 Issue](https://github.com/yangstafiltra/GPUpass/issues) 或提交 Pull Request。您的反馈非常宝贵，对本项目的持续改进至关重要。
