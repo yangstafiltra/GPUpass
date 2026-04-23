@@ -29,7 +29,7 @@ GPUpass is a Terminal User Interface (TUI) tool written in Rust for managing GPU
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/yangstafiltra/GPUpass.git
 cd GPUpass
 
 # Build the project
@@ -79,7 +79,7 @@ GPUpass 是一个使用 Rust 编写的终端用户界面（TUI）工具，用于
 
 ```bash
 # 克隆仓库
-git clone <repository-url>
+git clone https://github.com/yangstafiltra/GPUpass.git
 cd GPUpass
 
 # 构建项目
