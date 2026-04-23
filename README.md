@@ -35,8 +35,8 @@ cd GPUpass
 # Build the project
 cargo build --release
 
-# Run the tool
-cargo run --release
+# Run
+sudo ./target/release/gpupass
 ```
 
 ### Dependencies
@@ -85,8 +85,8 @@ cd GPUpass
 # 构建项目
 cargo build --release
 
-# 运行工具
-cargo run --release
+# 运行
+sudo ./target/release/gpupass
 ```
 
 ### 依赖项
