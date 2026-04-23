@@ -19,6 +19,11 @@ GPUpass is a Terminal User Interface (TUI) tool written in Rust for managing GPU
 - Passthrough setup and management
 - Multi-language support
 
+### SCREENSHOT
+<img width="1920" height="1200" alt="Screenshot_23-4月_19-37-36_12932" src="https://github.com/user-attachments/assets/923b81ec-b647-4157-a154-7571951771ee" />
+<img width="1920" height="1200" alt="Screenshot_23-4月_19-39-03_27846" src="https://github.com/user-attachments/assets/92700b2b-1119-48b5-81cc-8d64ca853099" />
+
+
 ### Prerequisites
 
 - Rust toolchain (edition 2021 or later)
@@ -68,6 +73,11 @@ GPUpass 是一个使用 Rust 编写的终端用户界面（TUI）工具，用于
 - 虚拟机配置管理
 - 直通设置与管理
 - 多语言支持
+
+### 截图
+<img width="1920" height="1200" alt="Screenshot_23-4月_19-37-36_12932" src="https://github.com/user-attachments/assets/f5279d64-95dc-49fe-8750-919ed752a4b4" />
+<img width="1920" height="1200" alt="Screenshot_23-4月_19-34-58_735" src="https://github.com/user-attachments/assets/bbdaa0e0-25d0-435b-8619-0c5f5b682cd8" />
+
 
 ### 前置要求
 
